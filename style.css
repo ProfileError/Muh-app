@@ -1,3 +1,10 @@
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Comic Sans', cursive;
+  color:chartreuse;
+  background-color:black;
+}
+
+input[name="answer"] {
+  font-family: 'Comic Sans', cursive;
+  font-size: 100px;
 }
